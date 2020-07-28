@@ -10,6 +10,6 @@ The high-level workflow is as follows:
 - Create a neural network model and train it to make molecules
 - Develop a generative AI model and create new molecules
 - Virtually screen the new molecules against the COVID-19 main protease
-- Use transfer learning to train the network on a more specific task
+- Use transfer learning to train the neural network on a more specific task
 - Generate more AI molecules using the generative model
 - Virtually screen the new molecules against the COVID-19 main protease
