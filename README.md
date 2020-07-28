@@ -1,5 +1,5 @@
 # AI-De-Novo-Molecule-Design
-A generative AI deep learning model for COVID-19 ligand design and screening using Python, Google Colab &amp; AutoDock Vina
+An generative AI deep learning model for COVID-19 ligand design and screening using Python, Google Colab &amp; AutoDock Vina
 
 This repository contains the code and data used in the <a href="" target="_blank">AI - De Novo Molecule Design</a> blog on Medium.com.  Provided below is a synopis of the article.
 
